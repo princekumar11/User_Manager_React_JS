@@ -25,7 +25,7 @@ List of features ready and TODOs for future development
 Minor project: Completed
 
 ## Contact
-Shubham - Software Developer Engineer
+Prince - Software Developer Engineer
 <br/>
 <br/>
 shubham782000@gmail.com
