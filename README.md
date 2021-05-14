@@ -28,4 +28,4 @@ Minor project: Completed
 Prince - Software Developer Engineer
 <br/>
 <br/>
-shubham782000@gmail.com
+singh97prince@gmail.com
