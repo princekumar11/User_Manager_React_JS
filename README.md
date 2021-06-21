@@ -23,6 +23,9 @@ List of features ready and TODOs for future development
 
 ## Status
 Minor project: Completed
+## Image
+![image](https://user-images.githubusercontent.com/82977704/122797649-51fbe480-d2dd-11eb-93e1-d5b656e4092f.png)
+
 
 ## Contact
 Prince - Software Developer Engineer
